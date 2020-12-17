@@ -1,0 +1,211 @@
+# github.com/AlexanderGrom/go-event v0.0.0-20180406111247-a2f1486e096e
+## explicit
+github.com/AlexanderGrom/go-event
+# github.com/CloudyKit/fastprinter v0.0.0-20200109182630-33d98a066a53
+## explicit
+github.com/CloudyKit/fastprinter
+# github.com/CloudyKit/jet v2.1.2+incompatible
+## explicit
+github.com/CloudyKit/jet
+# github.com/alexflint/go-scalar v1.0.0
+github.com/alexflint/go-scalar
+# github.com/andybalholm/brotli v1.0.0
+github.com/andybalholm/brotli
+# github.com/araddon/dateparse v0.0.0-20201001162425-8aadafed4dc4
+## explicit
+github.com/araddon/dateparse
+# github.com/awoodbeck/strftime v0.0.0-20180221155908-016cde65fcde
+## explicit
+github.com/awoodbeck/strftime
+# github.com/creasty/defaults v1.5.1
+## explicit
+github.com/creasty/defaults
+# github.com/denisenkom/go-mssqldb v0.0.0-20200428022330-06a60b6afbbc
+github.com/denisenkom/go-mssqldb
+github.com/denisenkom/go-mssqldb/internal/cp
+github.com/denisenkom/go-mssqldb/internal/decimal
+github.com/denisenkom/go-mssqldb/internal/querytext
+# github.com/gbrlsnchs/jwt/v3 v3.0.0
+## explicit
+github.com/gbrlsnchs/jwt/v3/internal
+# github.com/getevo/evo v0.9.1
+## explicit
+github.com/getevo/evo
+github.com/getevo/evo/errors
+github.com/getevo/evo/lib
+github.com/getevo/evo/lib/data
+github.com/getevo/evo/lib/date
+github.com/getevo/evo/lib/gpath
+github.com/getevo/evo/lib/jwt
+github.com/getevo/evo/lib/jwt/internal
+github.com/getevo/evo/lib/log
+github.com/getevo/evo/lib/log/logger
+github.com/getevo/evo/lib/ref
+github.com/getevo/evo/lib/text
+github.com/getevo/evo/lib/utils
+github.com/getevo/evo/lib/validate
+github.com/getevo/evo/menu
+# github.com/getevo/go-arg v1.4.0
+## explicit
+github.com/getevo/go-arg
+# github.com/go-sql-driver/mysql v1.5.0
+github.com/go-sql-driver/mysql
+# github.com/gofiber/fiber/v2 v2.2.5
+## explicit
+github.com/gofiber/fiber/v2
+github.com/gofiber/fiber/v2/internal/bytebufferpool
+github.com/gofiber/fiber/v2/internal/colorable
+github.com/gofiber/fiber/v2/internal/encoding/ascii
+github.com/gofiber/fiber/v2/internal/encoding/json
+github.com/gofiber/fiber/v2/internal/fasttemplate
+github.com/gofiber/fiber/v2/internal/fwd
+github.com/gofiber/fiber/v2/internal/isatty
+github.com/gofiber/fiber/v2/internal/memory
+github.com/gofiber/fiber/v2/internal/msgp
+github.com/gofiber/fiber/v2/internal/schema
+github.com/gofiber/fiber/v2/internal/uuid
+github.com/gofiber/fiber/v2/middleware/cors
+github.com/gofiber/fiber/v2/middleware/limiter
+github.com/gofiber/fiber/v2/middleware/logger
+github.com/gofiber/fiber/v2/middleware/recover
+github.com/gofiber/fiber/v2/middleware/requestid
+github.com/gofiber/fiber/v2/utils
+# github.com/gofiber/utils v0.1.2
+## explicit
+github.com/gofiber/utils
+# github.com/golang-sql/civil v0.0.0-20190719163853-cb61b32ac6fe
+github.com/golang-sql/civil
+# github.com/google/uuid v1.1.2
+## explicit
+github.com/google/uuid
+# github.com/jinzhu/inflection v1.0.0
+github.com/jinzhu/inflection
+# github.com/jinzhu/now v1.1.1
+github.com/jinzhu/now
+# github.com/klauspost/compress v1.10.7
+github.com/klauspost/compress/flate
+github.com/klauspost/compress/gzip
+github.com/klauspost/compress/zlib
+# github.com/leodido/go-urn v1.2.0
+## explicit
+github.com/leodido/go-urn
+# github.com/lithammer/shortuuid v3.0.0+incompatible
+## explicit
+github.com/lithammer/shortuuid
+# github.com/magefile/mage v1.10.0
+## explicit
+github.com/magefile/mage/mg
+github.com/magefile/mage/sh
+# github.com/mattn/go-sqlite3 v1.14.5
+github.com/mattn/go-sqlite3
+# github.com/mitchellh/mapstructure v1.4.0
+## explicit
+github.com/mitchellh/mapstructure
+# github.com/nbutton23/zxcvbn-go v0.0.0-20180912185939-ae427f1e4c1d
+## explicit
+github.com/nbutton23/zxcvbn-go
+github.com/nbutton23/zxcvbn-go/adjacency
+github.com/nbutton23/zxcvbn-go/data
+github.com/nbutton23/zxcvbn-go/entropy
+github.com/nbutton23/zxcvbn-go/frequency
+github.com/nbutton23/zxcvbn-go/match
+github.com/nbutton23/zxcvbn-go/matching
+github.com/nbutton23/zxcvbn-go/scoring
+github.com/nbutton23/zxcvbn-go/utils/math
+# github.com/otiai10/copy v1.2.0
+## explicit
+github.com/otiai10/copy
+# github.com/patrickmn/go-cache v2.1.0+incompatible
+## explicit
+github.com/patrickmn/go-cache
+# github.com/valyala/bytebufferpool v1.0.0
+github.com/valyala/bytebufferpool
+# github.com/valyala/fasthttp v1.18.0
+github.com/valyala/fasthttp
+github.com/valyala/fasthttp/fasthttputil
+github.com/valyala/fasthttp/reuseport
+github.com/valyala/fasthttp/stackless
+# github.com/valyala/tcplisten v0.0.0-20161114210144-ceec8f93295a
+github.com/valyala/tcplisten
+# github.com/wzshiming/ctc v1.2.3
+## explicit
+github.com/wzshiming/ctc
+# github.com/wzshiming/winseq v0.0.0-20200112104235-db357dc107ae
+github.com/wzshiming/winseq
+# golang.org/x/crypto v0.0.0-20201208171446-5f87f3452ae9
+## explicit
+golang.org/x/crypto/argon2
+golang.org/x/crypto/bcrypt
+golang.org/x/crypto/blake2b
+golang.org/x/crypto/blowfish
+golang.org/x/crypto/ed25519
+golang.org/x/crypto/ed25519/internal/edwards25519
+golang.org/x/crypto/md4
+golang.org/x/crypto/pbkdf2
+golang.org/x/crypto/scrypt
+# golang.org/x/sys v0.0.0-20201210223839-7e3030f88018
+golang.org/x/sys/cpu
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# golang.org/x/text v0.3.4
+## explicit
+golang.org/x/text/feature/plural
+golang.org/x/text/internal
+golang.org/x/text/internal/catmsg
+golang.org/x/text/internal/format
+golang.org/x/text/internal/language
+golang.org/x/text/internal/language/compact
+golang.org/x/text/internal/number
+golang.org/x/text/internal/stringset
+golang.org/x/text/internal/tag
+golang.org/x/text/language
+golang.org/x/text/message
+golang.org/x/text/message/catalog
+golang.org/x/text/transform
+golang.org/x/text/unicode/norm
+# golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
+## explicit
+golang.org/x/xerrors
+golang.org/x/xerrors/internal
+# gopkg.in/hlandau/easymetric.v1 v1.0.0
+## explicit
+gopkg.in/hlandau/easymetric.v1/cexp
+# gopkg.in/hlandau/measurable.v1 v1.0.1
+## explicit
+gopkg.in/hlandau/measurable.v1
+# gopkg.in/hlandau/passlib.v1 v1.0.10
+## explicit
+gopkg.in/hlandau/passlib.v1
+gopkg.in/hlandau/passlib.v1/abstract
+gopkg.in/hlandau/passlib.v1/hash/argon2
+gopkg.in/hlandau/passlib.v1/hash/argon2/raw
+gopkg.in/hlandau/passlib.v1/hash/bcrypt
+gopkg.in/hlandau/passlib.v1/hash/bcryptsha256
+gopkg.in/hlandau/passlib.v1/hash/pbkdf2
+gopkg.in/hlandau/passlib.v1/hash/pbkdf2/raw
+gopkg.in/hlandau/passlib.v1/hash/scrypt
+gopkg.in/hlandau/passlib.v1/hash/scrypt/raw
+gopkg.in/hlandau/passlib.v1/hash/sha2crypt
+gopkg.in/hlandau/passlib.v1/hash/sha2crypt/raw
+# gopkg.in/yaml.v2 v2.4.0
+## explicit
+gopkg.in/yaml.v2
+# gorm.io/driver/mysql v1.0.3
+## explicit
+gorm.io/driver/mysql
+# gorm.io/driver/sqlite v1.1.4
+## explicit
+gorm.io/driver/sqlite
+# gorm.io/driver/sqlserver v1.0.5
+## explicit
+gorm.io/driver/sqlserver
+# gorm.io/gorm v1.20.8
+## explicit
+gorm.io/gorm
+gorm.io/gorm/callbacks
+gorm.io/gorm/clause
+gorm.io/gorm/logger
+gorm.io/gorm/migrator
+gorm.io/gorm/schema
+gorm.io/gorm/utils
